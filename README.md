@@ -9,4 +9,4 @@
 
 Ryan is a Marketing Data Scientist at Amazon in Los Angeles. His efforts are focused on providing advanced analytical support to global entertainment businesses.
 Prior to Amazon, Ryan spent 5 years at Code3, a digital-first ad agency, where he founded and helped lead a Performance Analytics team supporting advertisers' analytics automation, omnichannel measurement, and attribution capabilities. Earlier roles at Code3 included Account Management positions aligned to global E-Commerce, Financial Services, and Big Box Retail businesses.
-Away from work, Ryan enjoys spending time with his family—including his 2-year-old son—and is an avid cyclist and triathlete.
+Away from work, Ryan is an avid cyclist and triathlete.
