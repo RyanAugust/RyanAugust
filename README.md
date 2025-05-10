@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RyanAugust 
 - 👀 I’m personally interested in athletic persuits, especially triathalon & cycling, as well as anything else that gets me outdoors
 - 💞️ I’m looking to collaborate on developing automation and analytic tools especially around athletic persuits
-- 👨‍💻 Professionally I work at the intersection of Data Science, Marketing Science, and Consulting @ Amazon
+- 👨‍💻 Professionally I work at the intersection of Data Science, Marketing Science, and Consulting @ Google
 - 📫 How to reach me ... Discord: ardec#6085, [Twitter](https://twitter.com/RyanAugust_) [Threads](https://www.threads.net/@ryan.aug)
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/ryanduecker)
 
